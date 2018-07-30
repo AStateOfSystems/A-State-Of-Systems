@@ -7,10 +7,8 @@ icon: fa-comment
 order: 1
 ---
 
-<header>
-  <h2 class="alt">Welcome to A State of Systems!</h2>
-  <p>This is the personal website of Steven Haveman - currently still in development. Feel free to look around!
-</header>
+<h2 class="alt">Welcome to A State of Systems!</h2>
+<p>This is the personal website of Steven Haveman - currently still in development. Feel free to look around!
 
 <!---
 Old button code
