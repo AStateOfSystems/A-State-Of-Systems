@@ -1,6 +1,6 @@
 ---
 title: About ASOS
-icon: fa-book-reader
+icon: fa-user
 order: 3
 ---
 
